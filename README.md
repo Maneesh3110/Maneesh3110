@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Maneesh Reddy Yanala
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Real-Time+Pipeline+Architect;Processing+300K%2B+Records+Daily+%F0%9F%9A%80;Building+Scalable+ETL+%26+Streaming+Solutions;Turning+Complex+Data+into+Actionable+Insights+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Real-Time+Pipeline+Architect;Processed+300K%2B+Records+Daily+%F0%9F%9A%80;Building+Scalable+ETL+%26+Streaming+Solutions;Turning+Complex+Data+into+Actionable+Insights+%F0%9F%92%A1" alt="Typing SVG" />
 
 <h3>Transforming Raw Data into Real-Time Intelligence</h3>
 
@@ -63,20 +63,40 @@ Data Engineer specializing in **high-throughput real-time streaming pipelines** 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Languages & Databases
+### Databases & Data Warehousing
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools & Frameworks
+### Web Development & APIs
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Data Processing & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00979D?style=for-the-badge&logo=natural-readers&logoColor=white)
 
 </div>
 
@@ -197,19 +217,6 @@ Pipeline Efficiency:
 - 📚 MS in Information Technology
 - 🎯 Focus Areas: Data Engineering, Distributed Systems, Big Data Architecture
 - 📍 Cincinnati, OH
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maneesh3110&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maneesh3110&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneesh3110&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</div>
 
 ---
 
